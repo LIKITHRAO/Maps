@@ -119,11 +119,11 @@ def main(input_file, output_file, api_key):
 
 if __name__ == "__main__":
     # Replace with your Google API key
-    api_key ="AIzaSyCxrgn6ZZL3IsY_3xrSqQJi_3yT_OKr-n0"
+    api_key =# ENTER YOUR API KEY
     
     # Input and output file paths
-    input_file = "C:\\Users\\likit\\Downloads\\abdn.xlsx"
-    output_file = "C:\\Users\\likit\\Downloads\\abdnans.xlsx"
+    input_file = # ENTER YOUR INPUT PATH
+    output_file = # ENTER YOUR OUTPUT PATH
     
     # Run the main function
     main(input_file, output_file, api_key)
